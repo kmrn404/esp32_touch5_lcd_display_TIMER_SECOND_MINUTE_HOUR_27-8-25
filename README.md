@@ -1,1 +1,1 @@
-"# ESP32 Project" 
+In this project, we display time and temperature on graphical lcd.
